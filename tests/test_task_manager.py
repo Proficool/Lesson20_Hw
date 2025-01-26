@@ -89,7 +89,7 @@
 #     with pytest.raises(ValueError):
 #         manager.remove_task("Nonexistent Task")
 
-#  Task manager, улучшенный с помощью Allure
+#  Менеджер задач, улучшенный с помощью Allure
 
 import pytest
 import allure
